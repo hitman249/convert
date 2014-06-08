@@ -1,0 +1,1 @@
+@(.\bin\Python27\python.exe .\bin\convert.py) && @(chcp 1251)>Nul && @(pause)>Nul && @(exit)>Nul
