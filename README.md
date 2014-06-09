@@ -24,9 +24,9 @@ or
 Using Convert
 ---------------
 
-Copy video files to folder "\in\".  
-Start "convert.bat" for convert.  
-Open the folder "\out\" to take back convert files.  
+1) Copy video files to folder "\in\".  
+2) Start "convert.bat" for convert.  
+3) Open the folder "\out\" to take back convert files.  
 
 
 
