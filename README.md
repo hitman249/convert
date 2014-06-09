@@ -1,11 +1,11 @@
 ﻿Convert
 =========
 
-Convert is a command line program for the Raspberry Pi. 
-Converts all video format to h264 with a maximum resolution of 1280x720. 
-You can configure arbitrarily to "bin\convert.py" file.
-
-Compatibility: WinXP SP1+, Win7(x86,x64), Win8(x86,x64)
+Convert is a command line program for the Raspberry Pi.   
+Converts all video format to h264 with a maximum resolution of 1280x720.   
+You can configure arbitrarily to "bin\convert.py" file.  
+  
+Compatibility: WinXP SP1+, Win7(x86,x64), Win8(x86,x64)  
 
 
 Downloading Convert
@@ -21,9 +21,9 @@ Downloading Convert
 Using Convert
 ---------------
 
-Copy video files to folder "\in\".
-Start "convert.bat" for convert.
-Open the folder "\out\" to take back convert files.
+Copy video files to folder "\in\".  
+Start "convert.bat" for convert.  
+Open the folder "\out\" to take back convert files.  
 
 
 
@@ -34,14 +34,14 @@ Russian
 Программа для проверки и приведению к стандарту 720p видеофайлов проигрываемых на Raspberry Pi.
 
 
-Инструкция:
-1) Скопировать видео файлы в папку "in".
-2) Запустить файл convert.bat
-3) Забрать стандартизированные файлы в папке "out".
+Инструкция:  
+1) Скопировать видео файлы в папку "in".  
+2) Запустить файл convert.bat  
+3) Забрать стандартизированные файлы в папке "out".  
 
 
 
-Багфикс:
+Багфикс:  
 
 Версия 0.4
 + Добавлен отладчик
