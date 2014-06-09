@@ -11,8 +11,11 @@ Compatibility: WinXP SP1+, Win7(x86,x64), Win8(x86,x64)
 Downloading Convert
 ---------------------
 
-[Download convert from zip-file][Download_convert]: https://github.com/hitman249/convert/archive/master.zip   
-  
+[Download convert from zip-file][Download_convert]
+
+[Download_convert]: https://github.com/hitman249/convert/archive/master.zip  
+
+
 or  
 	
     git clone https://github.com/hitman249/convert.git
